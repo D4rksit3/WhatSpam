@@ -33,6 +33,14 @@ Usamos un token de chat-api para vincularnos con nuestra cuenta y automatizar el
 `$ cd WhatSpam`\
 `$ python WhatSpam.py`
 
+<h3>Sistemas Testeadas</h3>
+
+Termux
+Windows
+Kali Linux
+
+
+
 ¡La comunidad de Darksite no se hace responsable del uso de esta herramienta, nosotros solo compartimos con fines educativos.!
 
 <h3 align="center">Nuestras Redes Sociales D4rksit3</h3>
