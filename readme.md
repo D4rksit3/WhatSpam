@@ -1,6 +1,6 @@
 <h1 align="center">WhatSpam</h1>
 <p align="center">
-<img  src="Captura.png" width=550  height=280 >
+<img  src="https://raw.githubusercontent.com/D4rksit3/WhatSpam/master/Captura.PNG" width=550  height=280 >
 
 </p>
 
