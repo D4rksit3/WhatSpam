@@ -13,7 +13,7 @@ init()
 
 
 
-os.system("cls" and "clear")
+os.system("cls" or "clear")
 
 def bann():
 	banner.mostrar()
@@ -41,11 +41,11 @@ def spamm():
 	print ("\n[!]- End\n")
 	salir = input("Deseas salir o ir al menú [exit][menu] ")
 	if salir == 'exit':
-		os.system("cls" and "clear")
+		os.system("cls" or "clear")
 
 		exit()	
 	if salir == 'menu':
-		os.system ("cls" and "clear")
+		os.system ("cls" or "clear")
 		main()
 
 
@@ -84,14 +84,14 @@ def main():
 		SendPTT()
 	if ent == 'exit':
 		
-		os.system("cls" and "clear")
+		os.system("cls" or "clear")
 
 		exit()
 	else:
 		time.sleep(0.3)
 		print ("[!]-Ingresaste un caracter incorrecto.")
 		time.sleep(0.8)
-		os.system("cls" and "clear")
+		os.system("cls" or "clear")
 		main()
 
 main()
