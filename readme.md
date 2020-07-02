@@ -35,11 +35,11 @@ Usamos un token de chat-api para vincularnos con nuestra cuenta y automatizar el
 
 <h3>Sistemas Testeadas</h3>
 
-Termux
-Windows
-Kali Linux
+Termux \
+Windows \
+Kali Linux \
 
-
+<br>
 
 ¡La comunidad de Darksite no se hace responsable del uso de esta herramienta, nosotros solo compartimos con fines educativos.!
 
