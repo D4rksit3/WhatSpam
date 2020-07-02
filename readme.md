@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
 <h1 align="center">WhatSpam</h1>
 <p align="center">
 <img  src="https://raw.githubusercontent.com/D4rksit3/WhatSpam/master/Captura.PNG" width=550  height=280 >
@@ -37,7 +39,7 @@ Usamos un token de chat-api para vincularnos con nuestra cuenta y automatizar el
 
 Termux \
 Windows \
-Kali Linux \
+Kali Linux 
 
 <br>
 
