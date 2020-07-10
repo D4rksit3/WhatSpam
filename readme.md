@@ -28,7 +28,7 @@ Usamos un token de chat-api para vincularnos con nuestra cuenta y automatizar el
 
 `$ pip install requests` \
 `$ pip install colorama` \
-`$ git clone https://github.com/d4rksit3/WhatSpam.py`
+`$ git clone https://github.com/d4rksit3/WhatSpam`
 
 <h3>Uso</h3> 
 
